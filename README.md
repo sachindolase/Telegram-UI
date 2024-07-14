@@ -5,14 +5,6 @@ This project is a replica of the Telegram user interface built using React, Reac
 ## Live Demo
 https://nvk-beyondchats.netlify.app/
 
-## Table of Contents
-
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-
 ## Features
 
 - Responsive UI that adapts to different screen sizes.
